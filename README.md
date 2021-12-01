@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AkashsRepositories
+- 👋 Hi, I’m Akash :)
 - 👀 I’m interested in Being a good programmer.
 - 🌱 I’m currently learning Web development libraries.
 - 💞️ I’m looking to collaborate on some beginner friendly projects.
