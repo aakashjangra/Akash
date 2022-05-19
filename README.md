@@ -2,7 +2,11 @@
 - 👀 I’m interested in opportunities.
 - 🌱 I’m currently learning DSA and Full Stack Web Development from Devsnest's 7-month Free Bootcamp. [Enroll yourself now](https://devsnest.in/)
 - 💞️ Will see, havn't thought of collaborations yet.
-- 📫 How to reach me aakashjangra2002@gmail.com or my ig [@a_akashjangra](https://www.instagram.com/a_akashjangra/) :) 
+- 📫 How to reach me 
+- By Mail:- aakashjangra2002@gmail.com 
+- My IG [@a_akashjangra](https://www.instagram.com/a_akashjangra/) 
+- LinkedIn:- https://www.linkedin.com/in/akashj01/ 
+- :) 
 
 <!---
 AkashsRepositories/AkashsRepositories is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
