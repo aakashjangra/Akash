@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA and Full Stack Web Development from Devsnest's 7-month Free Bootcamp. [Enroll yourself now](https://devsnest.in/)
 - 💞️ Will see, havn't thought of collaborations yet.
 - 📫 How to reach me 
-- By Mail:- [Write an E-mail Now](aakashjangra2002@gmail.com) 
+- By Mail:- [Write an E-mail Now](sendto:aakashjangra2002@gmail.com) 
 - My IG:- [@a_akashjangra](https://www.instagram.com/a_akashjangra/) 
 - LinkedIn:- [Connect With Me](https://www.linkedin.com/in/akashj01/) 
 - :) 
