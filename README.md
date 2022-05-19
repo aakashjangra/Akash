@@ -4,8 +4,8 @@
 - 💞️ Will see, havn't thought of collaborations yet.
 - 📫 How to reach me 
 - By Mail:- aakashjangra2002@gmail.com 
-- My IG [@a_akashjangra](https://www.instagram.com/a_akashjangra/) 
-- LinkedIn:- https://www.linkedin.com/in/akashj01/ 
+- My IG:- [@a_akashjangra](https://www.instagram.com/a_akashjangra/) 
+- LinkedIn:- [Connect With Me](https://www.linkedin.com/in/akashj01/) 
 - :) 
 
 <!---
