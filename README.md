@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Akash :)
 - 👀 I’m interested in opportunities.
-- 🌱 I’m currently learning DSA and Full Stack Web Development from Devsnest's 7-month FREE BOOTCAMP. [Enroll yourself now](https://devsnest.in/)
+- 🌱 I’m currently learning DSA and Full Stack Web Development from Devsnest's 7-month FREE of Cost BOOTCAMP. [Enroll yourself now](https://devsnest.in/)
 - 💞️ Will see, havn't thought of collaborations yet.
 - 📫 How to reach me 
-- Mail Me Here:- [Write an E-mail Now](mailto:aakashjangra2002@gmail.com) 
+- Mail Me Here:- [Write an E-mail Now](mailto:aj.akashjangra@gmail.com) 
 - LinkedIn:- [Connect With Me](https://www.linkedin.com/in/akashj01/) 
 - :) 
 
