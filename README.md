@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akash :)
-- 👀 I’m interested in opportunities.
+- 👀 I’m interested in Problem Solving, DSA and Web Dev.
 - 🌱 I’m currently learning DSA and Full Stack Web Development from Devsnest's 7-month FREE of Cost BOOTCAMP. [Enroll yourself now](https://devsnest.in/)
 - 💞️ I'm in for any exciting collaboration :)
 - 📫 How to reach me 
