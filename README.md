@@ -35,8 +35,6 @@ Web Developer and Computer Enthusiast
 
 <a href="http://www.github.com/AkashsRepositories"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashsRepositories&stroke=0891b2&background=181824&ring=3382ed&fire=3382ed&currStreakNum=0891b2&currStreakLabel=3382ed&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
-<a href="http://www.github.com/AkashsRepositories"><img src="https://activity-graph.herokuapp.com/graph?username=AkashsRepositories&bg_color=181824&color=0891b2&line=ffffff&point=0891b2&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/AkashsRepositories/leetcode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashsRepositories&repo=leetcode&title_color=3382ed&text_color=0891b2&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/AkashsRepositories/weather-around" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashsRepositories&repo=weather-around&title_color=3382ed&text_color=0891b2&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
