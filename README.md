@@ -1,13 +1,13 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 # My name is Akash
 =========================================================================================================================
-Web Developer and Computer Enthusiast
+Aspiring Software Engineer
 -------------------------------------
 
 * 🌍  I'm based in India | 🇮🇳
 * ✉️  You can contact me at [aakashjangra2002@gmail.com](mailto:aakashjangra2002@gmail.com)
 * 🧠  I'm learning Javascript and React
-* 🤝  I'm open to collaborating on Projects that helps people in real world
+* 🤝  I'm open to collaborating on Projects that help people in the real world
 
 ### Skills
 
