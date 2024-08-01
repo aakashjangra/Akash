@@ -50,18 +50,37 @@ Aspiring Software Engineer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/aakashjangra"><img src="https://github-readme-stats.vercel.app/api?username=AkashsRepositories&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0891b2&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="AkashsRepositories's GitHub stats" /></a>
+<a href="http://www.github.com/aakashjangra">
+<img src="https://github-readme-stats.vercel.app/api?username=aakashjangra&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=0891b2&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="AkashsRepositories's GitHub stats" />
+</a>
 
-<a href="http://www.github.com/aakashjangra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashsRepositories&stroke=0891b2&background=181824&ring=3382ed&fire=3382ed&currStreakNum=0891b2&currStreakLabel=3382ed&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+<a href="http://www.github.com/aakashjangra">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashjangra&stroke=0891b2&background=181824&ring=3382ed&fire=3382ed&currStreakNum=0891b2&currStreakLabel=3382ed&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" />
+</a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/aakashjangra/leetcode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashsRepositories&repo=leetcode&title_color=3382ed&text_color=0891b2&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a>
-  <a href="https://github.com/aakashjangra/weather-around" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashsRepositories&repo=weather-around&title_color=3382ed&text_color=0891b2&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/aakashjangra/ecom-with-auth-be" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aakashjangra&repo=ecom-with-auth-be&title_color=3382ed&text_color=0891b2&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/aakashjangra/GymTools" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aakashjangra&repo=GymTools&title_color=3382ed&text_color=0891b2&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/aakashjangra/op-resume-builder" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aakashjangra&repo=op-resume-builder&title_color=3382ed&text_color=0891b2&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/aakashjangra/Zen-Notes" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aakashjangra&repo=Zen-Notes&title_color=3382ed&text_color=0891b2&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" />
+  </a>
+
+</div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/aakashjangra/zen-notes" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AkashsRepositories&repo=zen-notes&title_color=3382ed&text_color=0891b2&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/aakashjangra/zen-notes" align="left">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=aakashjangra&repo=zen-notes&title_color=3382ed&text_color=0891b2&icon_color=ffffff&bg_color=181824&hide_border=true&locale=en" />
+</a></div>
 
 ### Support Me
 
