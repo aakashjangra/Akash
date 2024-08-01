@@ -5,12 +5,11 @@ Aspiring Software Engineer
 -------------------------------------
 
 * 🌍  I'm based in India | 🇮🇳
-* ✉️  You can contact me at [aakashjangra2002@gmail.com](mailto:aakashjangra2002@gmail.com)
-* 🧠  I'm learning Javascript and React
+* ✉️  You can contact me at [aakashjangra2002@gmail.com](mailto:aj.akashjangra@gmail.com)
+* 🧠  I'm current learning Databases
 * 🤝  I'm open to collaborating on Projects that help people in the real world
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -36,9 +35,6 @@ Aspiring Software Engineer
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
 </div>
 
 <b>My GitHub Stats</b>
