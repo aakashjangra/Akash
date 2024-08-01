@@ -5,25 +5,36 @@ Aspiring Software Engineer
 -------------------------------------
 
 * 🌍  I'm based in India | 🇮🇳
-* ✉️  You can contact me at [aakashjangra2002@gmail.com](mailto:aj.akashjangra@gmail.com)
+* ✉️  You can contact me at [aj.akashjangra@gmail.com](mailto:aj.akashjangra@gmail.com)
 * 🧠  I'm current learning Databases
 * 🤝  I'm open to collaborating on Projects that help people in the real world
 
 ### Skills
 
 <p align="left">
+  <img src="https://imgs.search.brave.com/xr5jdZ1Q2-ftVodEl7g4fzGVcDZAkHvOmKZvFcjzEQM/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWVjYzk4ZTM0/ZmZiZDUwNDk0YzA0/ZDk0NzQzNDk3NjI3/NDBhMjY1YzdjZWI0/ZjUxZGMxYzUzODIz/MjliMGI3ZS9ub2Rl/anMub3JnLw" width="36" height="36" alt="nodejs"  />
+<img src="https://imgs.search.brave.com/UH41hw6s-Q0xDq2hWu-oE_lFgBYKN7wrcokBbVhK2E0/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNjdjMjVlZmYz/MDU2NTQ5NTE1NWNl/M2Q0NDZjMTkzODY3/OGY5ZmM3YzE4NGRk/ZjNkYmUyNzRkM2Ex/NGQ0ZmZkOS9yZWFj/dC5kZXYv" width="36" height="36" alt="react"  />
+<img src="https://imgs.search.brave.com/hOXHjsHEaEm2Bw5HYTfKBpYlTscAZEz0Djit6KAoGhU/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvY2ExYWM3ZjNi/YmYyMjJmZGJhZGE5/Y2JjYjgxZmY1YmM1/Y2M0YzRiNTFhMWQ4/N2ZiMzM4NGZmNThi/OWIwY2IzYS9uZXh0/anMub3JnLw"  width="36" height="36" alt="nextjs"  />
+  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+
+
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.codepen.io/says_chill" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/SKY#9813" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/AkashsRepositories" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/akashjangra1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com//says_chill" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://www.codepen.io/says_chill" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
+  <a href="https://discord.com/users/SKY#9813" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+  <a href="https://www.github.com/aakashjangra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+  <a href="https://www.linkedin.com/in/akashjangra1/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://www.twitter.com//skyXakash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
